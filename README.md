@@ -1,5 +1,9 @@
 # Examen - Complexité Algorithmique
 
+- Cette partie de l'examen est à rendre sous forme de repository git. Peu importe la plateforme utilisée mais pensez bien à mettre votre repo en public.
+- Mettez votre nom, prénom et groupe dans le README.
+- Puis envoyez moi le lien sur Discord avec votre nom, prénom et groupe.
+
 ## Optimisation d’Algorithmes dans un Cas Concret
 
 Générez la data nécessaire pour tester les algorithmes suivants et écrivez les optimisations que vous avez imaginées.
